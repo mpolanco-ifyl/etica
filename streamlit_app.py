@@ -9,7 +9,7 @@ openai.api_key = os.environ.get("OPENAI_API_KEY")
 # Funcion para generar una respuesta a partir de un prompt
 def generate_response(prompt):
     completions = openai.Completion.create(
-        engine="text-davinci-002",
+        engine="text-davinci-003",
         prompt=prompt,
         max_tokens=1024,
         n=1,
@@ -26,9 +26,6 @@ def read_criterios():
         criterios = f.read()
         f.close()
     return criterios
-
-# Autenticar en openai
-openai.api_key = "YOUR_OPENAI_API_KEY"
 
 # Titulo de la aplicacion
 st.title("App de Resolucion de Casos de Etica")
