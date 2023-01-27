@@ -30,10 +30,10 @@ def generate_response(prompt):
 
 def main():
     # Titulo de la aplicacion
-    st.title("App de Resolucion de Casos de Etica")
+    st.title("App de Resolución de Casos de Ética")
     
     # Pedir al usuario que ingrese el caso a resolver
-    case_study = st.text_area("Ingrese el caso a resolver:")
+    case_study = st.text_area("Ingrese el caso que busca resolver:")
 
     # Generar la respuesta
     if st.button("Resolver caso"):
