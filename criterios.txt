@@ -29,11 +29,29 @@ El problema se plantea cuando solo se puede elegir entre no hacer nada y una alt
 Los efectos secundarios malos son solo tolerables cuando hay una causa proporcionada.
 En cambio, si no hay proporción entre los efectos malos y la necesidad de realizar la acción, una acción buena puede transformarse en mala.
 Una acción con efectos secundarios negativos es lícita si se cumplen las siguientes condiciones:
-Explorar alternativas
-Objeto lícito
-Rectitud de intención
-Proporcionalidad
-Necesidad
+1. Alternativas
+Que no existan alternativas lícitas que sean mejores y factibles.
+Muchas veces, con creatividad y competencia profesional podrá generarse alguna alternativa mejor que permita salir de la disyuntiva “hacer esto” o “no hacer nada”.
+2. El objeto
+Que sea lícito el objeto escogido como medio, es decir, que se trate de una alternativa de acción cuyo objeto sea genéricamente bueno o indiferente.
+La razón está en que nunca puede hacerse directamente el mal.
+El mal solo se puede tolerar como un efecto querido de modo indirecto, por ser un efecto inevitable que acompaña o sigue a una acción que en sí misma es buena o indiferente.
+El efecto bueno ha de ser inmediato y no derivado del objeto malo (de otro modo, el efecto malo, en realidad, sería el objeto de la acción)
+3. Rectitud de intención
+…lo cual exige que:
+Los efectos secundarios realmente lo sean.
+Por ejemplo, no sería razonable afirmar que estafar a unos inversores es un efecto secundario de un negocio inmobiliario honrado… La acción de estafar es una acción con un objeto propio, aunque esté encaminada a un fin honesto.
+Los efectos malos no son directamente queridos, sino solo tolerados por ser inevitables
+Hay disposición de poner los medios razonables para disminuir los efectos secundarios tanto como sea posible
+4. Proporcionalidad
+Que haya proporción entre la causa de necesidad para realizar la acción y los efectos malos que se seguirán de la acción.
+El juicio acerca de la proporción ha de ser de tipo prudencial y no utilitarista.
+No se trata de hacer un balance de las consecuencias, del tipo análisis “coste-beneficio”
+5. Necesidad
+La causa de necesidad ha de ser tanto más importante cuanto mayor sea:
+La gravedad del efecto malo a la luz de las normas morales objetivas
+La proximidad causal, esto es, el nexo causal entre el acto y los efectos malos previsibles.
+Lógicamente, cuando más alejadas estén las consecuencias de la acción directa, menos responsabilidad habrá sobre ellos
 
 Conflicto entre deberes éticos y deberes empresariales
 Un mandato superior que sea contrario a un deber ético negativo es un pseudodeber que no ha de ser cumplido.
